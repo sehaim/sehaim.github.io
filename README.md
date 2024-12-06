@@ -1,2 +1,7 @@
-# sehaim.github.io
-Portfolio
+![portfolio_1](./assets/pdf/1.png)
+![portfolio_2](./assets/pdf/2.png)
+![portfolio_3](./assets/pdf/3.png)
+![portfolio_4](./assets/pdf/4.png)
+![portfolio_5](./assets/pdf/5.png)
+![portfolio_6](./assets/pdf/6.png)
+![portfolio_7](./assets/pdf/7.png)
